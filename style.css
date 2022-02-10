@@ -180,30 +180,34 @@ h1 {
 input {
 
     width: 90%;
-    height: 5vh;
-    font-size: 1vw;
+    height: 0.5rem;
+    font-size: 0.2rem;
     margin-bottom: 0.1rem;
     font-family: 'Akaya Telivigala', cursive;
-
+    border: 0.1px solid black;
+    padding: 0 1px;
+    background-color: #ddd;
 }
 
 select {
     width: 90%;
-    height: 5vh;
-    font-size: 1vw;
+    height: 0.5rem;
+    font-size: 0.2rem;
     -webkit-appearance: none;
     margin-bottom: 1rem;
     padding-left: 1px;
     font-family: 'Akaya Telivigala', cursive;
+    border: 0.1px solid black;
+    padding: 0 1px;
+    background-color: #ddd;
 }
 
 li {
     list-style-type: none;
-    font-size: 1.5vw;
-    text-decoration: none;
 }
 
 a {
+    font-size: 1.5vw;
     text-decoration: none;
     font-family: 'Akaya Telivigala', cursive;
     color: rgb(70, 6, 6);
