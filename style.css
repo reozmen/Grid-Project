@@ -194,7 +194,7 @@ select {
     width: 90%;
     height: 2vw;
     font-size: 1vw;
-    -webkit-appearance: none;
+    /*-webkit-appearance: none;*/
     margin-bottom: 1rem;
     padding-left: 1px;
     font-family: 'Akaya Telivigala', cursive;
